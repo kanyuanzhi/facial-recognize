@@ -1,0 +1,1 @@
+rtsp://admin:c3i123456@192.168.22.64:554/Streaming/Channels/101
